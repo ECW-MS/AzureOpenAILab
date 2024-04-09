@@ -23,7 +23,7 @@ For running this lab you will need:
 
 Students need access to the GitHub environment and Azure resources before attending this workshop. In addition to access to Azure you need to specifically request access to OpenAI Services within Azure. To request access please complete the following form [Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu). This should be granted within 24hrs.
 
-![Request Form Sample](../../media/Solution/0103_OpenAI.png)
+![Request Form Sample](media/Instructions/0000_RequestOpenAIAccess.png)
 
 To help prepare for the workshop, consider the following MS Learn content:
 
