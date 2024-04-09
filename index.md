@@ -11,7 +11,7 @@ In this lab you'll practice the skills required to build a full solution with Az
 
 ## Learning Objectives
 
-At the end of this workshop, you will be able to: 
+At the end of this workshop, you will be able to:
 
 - Implement solutions leveraging Azure AI services, including Azure OpenAI, Cosmos DB, Azure AI Search, and other Azure AI services.
 - Apply proven practices with customers in the use of the Azure AI services.  
