@@ -27,11 +27,11 @@ Students need access to the GitHub environment and Azure resources before attend
 
 To help prepare for the workshop, consider the following MS Learn content:
 
-- Fundamentals of Azure AI services - Training | Microsoft Learn (opens in a new tab)  
-- Fundamentals of Generative AI - Training | Microsoft Learn (opens in a new tab) 
-- Microsoft Azure AI Fundamentals: AI Overview - Training | Microsoft Learn (opens in a new tab)  
-- Fundamentals of Azure AI Speech - Training | Microsoft Learn (opens in a new tab)
-- Here is a collection of the learning paths Collections | Microsoft Learn
+- Fundamentals of Azure AI services
+- Fundamentals of Generative AI
+- Microsoft Azure AI Fundamentals: AI Overview
+- Fundamentals of Azure AI Speech
+- Here is a [Collection](https://learn.microsoft.com/en-us/collections/jp5a6e530r0pe) of the learning paths mentioned above.
 
 ## Exercises
 
