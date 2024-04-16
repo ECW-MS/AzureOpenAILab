@@ -21,7 +21,10 @@ At the end of this workshop, you will be able to:
 
 For running this lab you will need:
 
-Students need access to the GitHub environment and Azure resources before attending this workshop. In addition to access to Azure you need to specifically request access to OpenAI Services within Azure. To request access please complete the following form [Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu). This should be granted within 24hrs.
+- [Visual Studio Code](https://code.visualstudio.com/) installed on your device and the [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) and [Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) extensions for Visual Studio Code. Alternatively, if you have Visual Studio installed, you can use that.
+- [A Git client](https://git-scm.com/download/). An alternative option is to install [GitHub Desktop](https://desktop.github.com/).
+- [Python 3.10 or later](https://www.python.org/downloads/). We recommend you install the [Anaconda distribution of Python](https://anaconda.com/download), though you can use a standard installation of Python. -- In the exercises, you may need to install additional packages. If you do not use the Anaconda distribution of Python, make sure that you can run `python` and `pip` from your command line. If you are not sure whether you have pip installed, run `python -m ensurepip` to check.
+- Access to the **GitHub environment and Azure** resources before attending this workshop. In addition to access to Azure you need to **specifically request access to OpenAI Services within Azure**. To request access please complete the following form [Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu). This should be granted within 24hrs.
 
 ![Request Form Sample](media/Instructions/0000_RequestOpenAIAccess-1.png)
 
